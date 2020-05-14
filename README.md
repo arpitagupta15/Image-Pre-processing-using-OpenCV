@@ -5,7 +5,7 @@ In part-1, I have explained basic terms used in digital image processing and bas
 -Basic terminology used in image processing
 -Reading of an image 
 -Writing of an image
-Display of an image
+* Display of an image
 Conversion of a colored image to grayscale
 Histogram of an image
 Edge Detection 
