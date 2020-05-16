@@ -10,3 +10,10 @@ In part-1, I have explained basic terms used in digital image processing and bas
 * Histogram of an image
 * Edge Detection 
 
+#### Image pre-processing using openCV part-2
+* Thresholding
+* Image Smoothing
+* Image rescaling
+* Denoising
+
+
