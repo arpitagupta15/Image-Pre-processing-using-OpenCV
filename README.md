@@ -16,4 +16,12 @@ In part-1, I have explained basic terms used in digital image processing and bas
 * Image rescaling
 * Denoising
 
+#### Image pre-processing using openCV part-3
+* Masking
+* Blending
+* Geomteric Transformation
+* Image sharpening
+* Erosion
+* Dilation
+
 
